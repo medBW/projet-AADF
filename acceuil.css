@@ -99,6 +99,15 @@
     font-weight: 500;
     color: #000000;
 }
+.karla-bold {
+    font-family: 'Karla-Bold';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 150%;
+    color: black;
+    margin-bottom: 70px;
+}
 
 .fs-20 {
     font-size: 20px;
