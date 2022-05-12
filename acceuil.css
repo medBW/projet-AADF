@@ -1,0 +1,271 @@
+@font-face {
+    font-family: "Dosis";
+    src: url('../fonts/Dosis/static/Dosis-Bold.ttf');
+}
+
+@font-face {
+    font-family: "Dosis-SemiBold";
+    src: url('../fonts/Dosis/static/Dosis-SemiBold.ttf');
+}
+
+@font-face {
+    font-family: "Karla"; 	
+    src: url('../fonts/Karla/static/Karla-Medium.ttf');
+}
+
+@font-face {
+    font-family: "Karla-Bold"; 	
+    src: url('../fonts/Karla/static/Karla-Bold.ttf');
+}
+
+.background-pres1 {
+    background-image: url('./Rectangle\ 161.jpg');
+    background-size: 100%;
+    width: 100%;
+    border-top: 1px solid white;
+    height: 478px;
+    margin-bottom: 100px;
+}
+
+.title-pres1 {
+    font-size: 48px;
+    margin-top: 250px;
+    margin-left: 99px;
+    font-family: 'Dosis';
+    color: white;
+    margin-bottom: 0;
+}
+
+.desc-pres {
+    margin-left: 99px;
+    margin-top: 0;
+    color: #FBFBFB;
+}
+
+.h3-title {
+    font-family: 'Karla';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 28px;
+    line-height: 33px;
+}
+
+.h2-title {
+    text-align: center;
+    font-family: "Dosis-SemiBold";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 46px;
+    color: #000000;
+}
+
+.mb-83 {
+    margin-bottom: 83px;
+}
+
+.flex {
+    display: flex;
+}
+
+.img-what-is-addf {
+    margin-left: 133px;
+    width: 466.72px;
+    height: 516.37px;
+}
+
+.what-is-aadf-text {
+    margin-left: 222px;
+    margin-right: 133px;
+}
+
+.no-margin-top {
+    margin-top: 0;
+}
+
+.red-text {
+    font-family: 'Karla-Bold';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 150%;
+    color: #E51E31;
+    margin-bottom: 70px;
+}
+
+.karla-medium {
+    font-family: 'Karla';
+    font-style: normal;
+    font-weight: 500;
+    color: #000000;
+}
+
+.fs-20 {
+    font-size: 20px;
+}
+
+.mb-53 {
+    margin-bottom: 53px;
+}
+
+.mieux-connaitre-addf {
+    margin-top: 71.82px;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 140px;
+}
+
+.mieux-connaitre-addf p {
+    font-family: 'Karla';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 150%;
+    color: #101010;
+}
+
+.mieux-connaitre-addf div {
+    padding-right: 18px;
+}
+
+.arrow-right-semi-title {
+    width: 38px;
+}
+
+.mb-73 {
+    margin-bottom: 73px;
+}
+
+.events-data {
+    display: flex;
+    justify-content: space-around;
+}
+
+.a-venir {
+    margin-bottom: 9px;
+}
+
+.hr-a-venir {
+    width: 47px;
+    border: 1px solid #E51E31;
+    margin-left: 0;
+    margin-right: 0;
+    margin-bottom: 59px;
+}
+
+.shadow {
+    filter: drop-shadow(20px 20px 0px black);
+}
+
+.mb-50 {
+    margin-bottom: 34px;
+}
+
+.h4-title {
+    font-family: 'Karla';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+}
+
+.black {
+    color: #000000;
+}
+
+.title-cafe {
+    margin-bottom: 15px;
+}
+
+.date-cafe {
+    margin-bottom: 33px;
+}
+
+.date-event-data {
+    font-family: 'Karla';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    color: #6B6B6B;
+}
+
+.btn-inscription-event {
+    text-decoration: none;
+    color: #E51E31;
+    font-family: 'Karla-Bold';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 21px;
+    border: 1px solid #E51E31;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    padding-left: 17px;
+    padding-right: 17px;
+}
+
+.btn-inscription-event:hover {
+    background-color: #E51E31;
+    color: #fff;
+}
+
+.title-events-past {
+    margin-bottom: 9;
+}
+
+.hr-past-events {
+    margin-top: 0;
+    margin-left: 0;
+    border: 1px solid #E51E31;
+    width: 58.11px;
+    margin-bottom: 58px;
+}
+
+.img-event-past {
+    width: 199px;
+    height: 127px;
+    text-align: center;
+    background-color: #111111;
+    vertical-align: middle;
+    line-height: 127px;
+}
+
+.white {
+    color: #FFFFFF;
+}
+
+.mt-0 {
+    margin-top: 0;
+}
+
+.mb-0 {
+    margin-bottom: 0;
+}
+
+.title-event {
+    width: 261px;
+    margin-left: 13px;
+}
+
+.date-past {
+    margin-left: 13px;
+    margin-bottom: 33px;
+}
+
+.align-center {
+    justify-content: end;
+    align-items: flex-start;
+}
+
+.arrow-right {
+    width: 28px;
+    height: 14px;
+    padding-left: 10px;
+}
+
+.mb-96 {
+    margin-bottom: 96px;
+}
+
+

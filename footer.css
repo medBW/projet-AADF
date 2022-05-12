@@ -1,0 +1,104 @@
+
+footer{
+    background:#202020;
+    position:static;
+    height: 392px;
+    width: 1440px;
+    left: 0px;
+    top: 0px;
+    border-radius: 0px;
+
+
+}
+
+.footerG{
+    display: flex;
+}
+
+footer ul {
+    list-style: none;  
+    padding-top: 1rem;  
+}
+
+
+footer li {
+    padding-bottom: 22px;    
+}
+
+
+footer a {
+    text-decoration: none;
+    color: white;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+}
+
+footer .echangeonsEnsemble{
+    padding-top: 1rem;
+    margin-left : 200px;
+    justify-content: center;
+    align-items: center;
+}
+
+footer .echangeonsEnsemble p{
+    color: white;
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+
+/* sous le trait */
+.logoFooter {
+    height: 66px;
+    width: 68px;
+    left: 100px;
+    top: 305px;
+    border-radius: 0px;
+        
+}
+
+
+.footerST {
+    display: flex;
+    margin-left: 100px;
+}
+
+.footerEB{
+
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    width: 100%;
+    
+}
+
+.footerEB a{
+    text-decoration: none;
+}
+
+.footerEB p{
+    margin-left: 50px;
+    margin-right: 10px;
+    color: #FFFF;
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+hr {
+    height: 0px;
+    width: 1240px;
+    left: 100px;
+    top: 285px;
+
+}
