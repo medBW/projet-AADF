@@ -70,17 +70,26 @@ body {
 }
 
 .btn-menu {
-    padding-left: 32px;
-    padding-right: 32px;
     border-radius: 18.5px;
-    padding-top: 7px;
-    padding-bottom: 7px;
+    padding: 7px 32px 7px 32px;
 }
 
 .btn-adhesion {
     margin-left: 100px;
     border: 2px solid #E51E31;
     background-color: #E51E31;
+}
+.btn-blog{
+    color: blue;
+    border: 2px solid blue;
+    background-color:transparent;
+    border-radius: 18.5px;
+    padding: 7px 32px 7px 32px;
+    font-weight: 500;
+    font-size: 18.2222px;
+    line-height: 21px;
+    
+    margin: 5px;
 }
 
 .btn-adhesion {

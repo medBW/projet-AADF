@@ -59,6 +59,16 @@
     line-height: 46px;
     color: #000000;
 }
+.h2-titles {
+    text-align: center;
+    font-family: "Dosis-SemiBold";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 0px;
+    color: #000000;
+    padding: 0px;
+}
 
 .h3-title {
     text-align: center;
@@ -155,6 +165,9 @@
 .mb-73 {
     margin-bottom: 73px;
 }
+.mb-test {
+    margin-bottom: 50px;
+}
 
 .events-data {
     display: flex;
@@ -199,6 +212,7 @@
 .title-cafe {
     margin-bottom: 15px;
 }
+
 
 .date-cafe {
     margin-bottom: 33px;
@@ -297,4 +311,15 @@
     font-weight: 500;
     color: #000000;
     line-height: 30px;
+}
+
+.btn-blog:hover{
+    color: white;
+    border: 2px solid blue;
+    background-color:blue;
+    border-radius: 18.5px;
+    padding: 7px 32px 7px 32px;
+    font-weight: 500;
+    font-size: 18.2222px;
+    line-height: 21px;
 }
