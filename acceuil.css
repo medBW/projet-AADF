@@ -60,6 +60,16 @@
     color: #000000;
 }
 
+.h3-title {
+    text-align: center;
+    font-family: "Dosis-SemiBold";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 28px;
+    line-height: 32px;
+    color: #000000;
+}
+
 .mb-83 {
     margin-bottom: 83px;
 }
@@ -281,4 +291,10 @@
     margin-bottom: 96px;
 }
 
-
+.karla-500{
+    font-family: 'Karla';
+    font-style: normal;
+    font-weight: 500;
+    color: #000000;
+    line-height: 30px;
+}
